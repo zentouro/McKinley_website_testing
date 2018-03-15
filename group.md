@@ -1,27 +1,16 @@
 ---
 layout: home
-title: whoami
-feature_text: <h2 class="whitetext highlighted">kunal@baweja:~$ whoami</h2>
-image: /assets/img/kunal-avatar.jpg
+title: McKinley Ocean Carbon Group
+feature_text: <h2> McKinley Ocean Carbon Group </h2>
+image: 
 ---
-I pursued a MS in Computer Science at [Columbia University in the City of New York]({{site.columbia.university}}){:target="_blank"}, in Software Systems Track.
 
-I got my B.E.(Hons) in Computer Science from Birla Institute of Technology & Science, Pilani, India in 2015 and moved to National University of Singapore as a Research Intern where I worked on research prototypes in web security and crypto-currencies.
+Some text introducing members of the Group
 
-Now that you are here, go on and know more about me !
+### Person 1
 
-##### What interests me ?
-  * Efficient Algorithms
-  * Distributed Computing
-  * Building scalable web applications
-  * Photography & Food
-  * Physics
-  * Making bullet points (not so good at paragraphs)
+Some text about them and a link to their page and probably a photo two 
 
-##### What scares me ?
-  * Roller Coasters
+### Person 2 
 
-##### Know even more about me ?
-You can download my updated [resume](https://github.com/bawejakunal/resume/blob/master/kunal-resume.pdf){:target="_blank"} or [curriculum vitae](https://github.com/bawejakunal/resume/blob/master/cv/kunal-cv.pdf){:target="_blank"}.
-<br/>
-The best way to reach me is via <a href="mailto:{{site.contact.email}}">email</a>. You may also reach me on social media links listed under the contact me section on the side panel.
+Some more text about them with a link and photo
