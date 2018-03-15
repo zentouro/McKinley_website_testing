@@ -101,7 +101,7 @@ error_mode: strict
 # 8. Site navigation
 navigation_header:
   Home: /OceanCarbon/
-  Publications: /OceanCarbon//publications/
+  Publications: /OceanCarbon/publications/
   Group: /OceanCarbon/group/
   Carbon Cycle: /
   Updates: /OceanCarbon/blog/
