@@ -1,4 +1,5 @@
 ---
+layout: home
 title: GALEN A. McKINLEY
 feature_text: |
   ## McKinley Ocean Carbon Group
@@ -10,4 +11,5 @@ I study the physical structures and biogeochemical processes in large water bodi
 
 
 
-/Add research info here/
+/Add research info/
+/Add Photo/
