@@ -1,8 +1,14 @@
 <nav class="nav  nav--social">
-  {% for link in site.social_links %}
+<h6>Contact me:</h6>
+{% for link in site.contact %}
     {% assign id = link[0] | downcase %}
-    <a href="{{ link[1] }}">
-      {% include icon.html id=id title=id %}
-    </a>
-  {% endfor %}
+    {% if id == "email" %}
+        {% capture refer %}mailto:{{link[1]}}{% endcapture %}
+    {% elsif id == "phone" %}
+        {% capture refer %}tel:{{link[1]}}{% endcapture %}
+    {% else %}
+        {% capture refer %}{{link[1]}}{% endcapture %}
+    {% endif %}
+<a class="link" target="_blank" href="{{refer}}" title="{{link[0]}}">{% include icon.html id=id %}</a>
+{% endfor %}
 </nav>

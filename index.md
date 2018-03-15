@@ -1,15 +1,13 @@
 ---
 layout: home
-title: GALEN A. McKINLEY
-feature_text: |
-  ## McKinley Ocean Carbon Group
-feature_image: "https://picsum.photos/1300/400?image=989"
-
+title: Kunal Baweja
+feature_text: <h2 class="whitetext highlighted">Click Code Repeat</h2>
+image: https://c2.staticflickr.com/6/5727/30497145636_3ecab588f7_z.jpg
 ---
+Hi! I am Kunal Baweja.
 
-I study the physical structures and biogeochemical processes in large water bodies that impact large-scale carbon cycling and primary productivity. This requires an interdisciplinary approach across fluid dynamics, aquatic chemistry and ecology. Numerical models, historical datasets, and remote sensing are my primary tools. My research group and I are currently working to (1) assess change in the global ocean carbon sink from surface ocean pCO2, (2) quantify recent carbon uptake and productivity changes in the North Atlantic, (3) directly separate internal variability from anthropogenic change in the ocean carbon sink using large ensembles of coupled climate models, and (4) assess the biogeochemical impacts of invasive species in the Laurentian Great Lakes. 
+I look forward to building scalable, secure and accessible technological solutions as a software engineer. I am primarily interested in working on distributed systems and infrastructure for large scale technical challenges.
 
+Aside from computer science I am a hobbyist photographer and like to travel, exploring attractions with my lens. If it interests you please have a look at my work on [Flickr]({{site.contact.flickr}}){:target="_blank"}.
 
-
-/Add research info/
-/Add Photo/
+Thanks for stopping by, hope you like it here. Please feel free to get in touch !

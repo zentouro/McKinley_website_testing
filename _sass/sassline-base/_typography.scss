@@ -36,7 +36,7 @@ a {
 
   // Nice underlines for text links.
   p a, li a {
-    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$linkColour 50%);
+    background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,lighten($linkColour,20%) 50%);
     background-position: 0 93%;
     background-repeat: repeat-x;
     background-size: 100% 0.15rem;
@@ -46,13 +46,13 @@ a {
                 -0.15rem 0 $backgroundColour;
 
     &:hover, &:active, &:focus {
-      background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,$hoverColour 50%);
+      background-image: linear-gradient(to bottom,rgba(0, 0, 0, 0) 50%,lighten($hoverColour,20%) 50%);
     }
   }
 
   // Paragraphs. OpenType ligatures and oldstyle figures enabled if available.
   p {
-    @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 2, $below: 2, $breakpoint: all);
+    @include baseline($fontsize: zeta, $font: $bodytype, $lineheight: 2, $below: 1, $breakpoint: all);
 
     font-feature-settings: 'kern', 'onum', 'liga';
   }
@@ -64,6 +64,17 @@ a {
     font-feature-settings: 'dlig', 'liga', 'lnum', 'kern';
     font-style: normal;
     font-weight: map-get($headingtype, bold);
+  }
+
+  //text highlight
+  .highlighted {
+    background-color: $color__site--highbackground;
+    padding: 0px;
+  }
+
+  //white text
+  .whitetext{
+    color: $color__site--highcolor;
   }
 
   // Heading level 1.
@@ -323,7 +334,6 @@ a {
 
   pre {
     display: block;
-    margin-bottom: 2rem;
     padding: 1rem;
     white-space: pre;
     white-space: pre-wrap;
