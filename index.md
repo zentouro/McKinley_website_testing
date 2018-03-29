@@ -5,7 +5,7 @@ feature_text: <h1> McKinley Ocean Carbon Group </h1>
 image: 
 	
 ---
-
+<div>
 ## GALEN A. McKINLEY 
 
 <div> <img source="{{site.baseurl}}/assets/img/headshot.jpg" /> </div>
@@ -15,4 +15,4 @@ I study the physical structures and biogeochemical processes in large water bodi
 
 
 
-
+</div>
