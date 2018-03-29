@@ -61,7 +61,7 @@ defaults:
       type: pages
     values:
       layout: page # Default layout
-      image: "/assets/img/kunal-logo.png" # Default image for sharing
+      image:  # Default image for sharing
 
   - scope:
       path: ""
@@ -80,7 +80,7 @@ collections:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "McKinley Ocean Carbon Group " # Site name or title, also used in jekyll-seo-tag
+title: "McKinley Ocean Carbon Group" # Site name or title, also used in jekyll-seo-tag
 logo:  # Site logo, also used in jekyll-seo-tag
 
 # Site description and default description, also used in jekyll-seo-tag
