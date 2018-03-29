@@ -2,7 +2,7 @@
 layout: home
 title: McKinley Ocean Carbon Group 
 feature_text: <h1> McKinley Ocean Carbon Group </h1>
-image:  "https://picsum.photos/1300/400?image=989"
+image: https://picsum.photos/1300/400?image=989
 	
 ---
 
