@@ -33,7 +33,7 @@ sass:
   sass_dir: _sass
 
 paginate: 8 # jekyll-paginate > items per page
-paginate_path: "OceanCarbon/blog/page:num/" # jekyll-paginate > blog page
+paginate_path: "/blog/page:num/" # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # base url for jekyll mentions
 
 compress_html:
@@ -84,8 +84,8 @@ title: "McKinley Ocean Carbon Group " # Site name or title, also used in jekyll-
 logo:  # Site logo, also used in jekyll-seo-tag
 
 # Site description and default description, also used in jekyll-seo-tag
-url: "http://zentouro.ldeo.columbia.edu/OceanCarbon" # Site url, also used in jekyll-seo-tag
-repo: "https://github.com/zentouro/OceanCarbon"
+url: "http://zentouro.ldeo.columbia.edu/" # Site url, also used in jekyll-seo-tag
+repo: "https://github.com/zentouro/"
 disqus: 
 avatarurl: 
 
@@ -100,11 +100,11 @@ error_mode: strict
 
 # 8. Site navigation
 navigation_header:
-  Home: /OceanCarbon/
-  Publications: /OceanCarbon/publications/
-  Group: /OceanCarbon/group/
+  Home: /
+  Publications: /publications/
+  Group: /group/
   Carbon Cycle: /
-  Updates: /OceanCarbon/blog/
+  Updates: /blog/
 
 
 #site credits
