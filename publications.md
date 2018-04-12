@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Publications
-feature_text: <h2>Publications</h2>
-image: 
+feature_text: <h1 style="color:White;"> Publications </h1>
+image: http://zentouro.github.io/assets/img/productivity.jpg
 ---
 
 Will update with links at a later date 
