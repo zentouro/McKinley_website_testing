@@ -2,7 +2,7 @@
 layout: home
 title: McKinley Ocean Carbon Group
 feature_text: <h1> McKinley Ocean Carbon Group </h1>
-image: 
+image: http://zentouro.github.io/assets/img/ocean.jpg
 ---
 
 Some text introducing members of the Group
