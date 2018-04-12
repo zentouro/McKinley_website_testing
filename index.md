@@ -1,8 +1,8 @@
 ---
 layout: home
 title: McKinley Ocean Carbon Group 
-feature_text: <h1> McKinley Ocean Carbon Group </h1>
-image: {{site.baseurl}}/assets/img/perpetual.jpg
+feature_text: McKinley Ocean Carbon Group
+feature_image: http://zentouro.github.io/assets/img/perpetual.png 
 ---
 
 ## GALEN A. McKINLEY 
