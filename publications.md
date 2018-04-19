@@ -5,7 +5,7 @@ feature_text: <h1 style="color:White;"> Publications </h1>
 image: http://zentouro.github.io/assets/img/productivity.jpg
 ---
 
-Will update with links at a later date 
+
 
 ### Papers in Review
 
