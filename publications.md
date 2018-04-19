@@ -9,13 +9,13 @@ Will update with links at a later date
 
 ### Papers in Review
 
-Fay, A.R., N.S. Lovenduski, G.A. McKinley, D.R. Munro, C. Sweeney, A.R. Gray, P. Landschutzer, B. Stephens, T. Takahashi, N. Williams, Utilizing the Drake Passage Time-series to understand variability and change in subpolar Southern Ocean pCO2,  Biogeosciences Discuss., doi: 10.5194/bg-2017-489, in review, 2018. 
+Fay, A.R., N.S. Lovenduski, G.A. McKinley, D.R. Munro, C. Sweeney, A.R. Gray, P. Landschutzer, B. Stephens, T. Takahashi, N. Williams, Utilizing the Drake Passage Time-series to understand variability and change in subpolar Southern Ocean pCO2,  Biogeosciences Discuss., doi: 10.5194/bg-2017-489, [in review](https://www.biogeosciences-discuss.net/bg-2017-489/), 2018. 
 
-McKinley, G. A., Ritzer, A. L., and Lovenduski, N. S.: Mechanisms of northern North Atlantic biomass variability, Biogeosciences Discuss., doi: 10.5194/bg-2018-89, in review, 2018.
+McKinley, G. A., Ritzer, A. L., and Lovenduski, N. S.: Mechanisms of northern North Atlantic biomass variability, Biogeosciences Discuss., doi: 10.5194/bg-2018-89, [in review](https://www.biogeosciences-discuss.net/bg-2018-89/), 2018.
 
 ### Publications
 
-Muller-Karger et al. (2018) Satellite Sensor Requirements for Monitoring Essential Biodiversity Variables of Coastal Ecosystems. Ecological Applications, doi: 10.1002/eap.1682. (50)
+Muller-Karger et al. (2018) Satellite Sensor Requirements for Monitoring Essential Biodiversity Variables of Coastal Ecosystems. Ecological Applications, doi: [10.1002/eap.1682](http://onlinelibrary.wiley.com/doi/10.1002/eap.1682/full). (50)
 
 Peters, G.P., C. LeQuere, R.M. Andrew, J.G. Canadell, P. Friedlingstein, T. Ilyina, R.B. Jackson, F. Joos, J.I. Korsbakken, G.A. McKinley, S. Sitch, and P. Tans (2017) Towards real-time verification of CO2 emissions, Nature Climate Change, doi: 10.1038/s41558-017-0013-9.  (49)
 
